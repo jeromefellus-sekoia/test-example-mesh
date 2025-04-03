@@ -1,0 +1,14 @@
+{
+    "configuration": {
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "title": "cisa_kev",
+        "type": "object",
+        "properties": {},
+        "required": []
+    },
+    "description": "cisa_kev",
+    "name": "cisa_kev",
+    "uuid": "bf75947d-29bd-470f-8ac2-60acce2c431a",
+    "slug": "cisa_kev",
+    "version": "0.1.0"
+}
