@@ -1,0 +1,6 @@
+automation_action_uuid: 0410768f-8d21-4aac-94d7-9ef62a8d7cfa
+automation_module_uuid: 8aa9f86c-f360-4ae7-84f5-b61c6917cf01
+product: sekoia
+role: trigger
+target_product: withsecure
+topic: update_incident_status

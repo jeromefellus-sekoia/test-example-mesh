@@ -1,0 +1,6 @@
+automation_action_uuid: cfa3f6eb-1117-4174-ad92-e06a88cf7371
+automation_module_uuid: ff675e74-e5c1-47c8-a571-d207fc297464
+product: sekoia
+role: trigger
+target_product: sentinelone
+topic: init_scan

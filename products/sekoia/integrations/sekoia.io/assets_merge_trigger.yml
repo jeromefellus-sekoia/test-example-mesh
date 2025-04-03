@@ -1,0 +1,6 @@
+automation_action_uuid: 86fc9d59-3c54-56f3-8266-1c9d80030a48
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: assets_merge

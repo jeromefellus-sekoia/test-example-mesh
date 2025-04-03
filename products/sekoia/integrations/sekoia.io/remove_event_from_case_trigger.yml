@@ -1,0 +1,6 @@
+automation_action_uuid: 1104fb84-780a-44b3-8bd8-13aa3f5416c0
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: remove_event_from_case

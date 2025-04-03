@@ -1,0 +1,6 @@
+automation_action_uuid: 258030ab-8275-4056-877e-105cb74de49d
+automation_module_uuid: 0de5216e-19b0-4ad3-9b91-a547cfaf52ca
+product: sekoia
+role: trigger
+target_product: sophos
+topic: edr_deisolate

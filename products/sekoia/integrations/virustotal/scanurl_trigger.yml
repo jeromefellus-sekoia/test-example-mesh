@@ -1,0 +1,6 @@
+automation_action_uuid: b43a7897-b92c-4fe1-8a5c-be9e023c4f1c
+automation_module_uuid: d023af1d-25d8-465b-b85f-2ed48214d6a5
+product: sekoia
+role: trigger
+target_product: virustotal
+topic: scanurl

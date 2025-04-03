@@ -1,0 +1,6 @@
+automation_action_uuid: ab2305b9-abca-4fdb-b5f7-6fa39b04cef9
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: create_a_new_tracker_notification

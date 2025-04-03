@@ -1,0 +1,6 @@
+automation_action_uuid: be59c0f9-194e-4405-8492-383155769ac9
+automation_module_uuid: 3d20c308-bc7f-492f-99b0-211614a58116
+product: sekoia
+role: trigger
+target_product: onyphe
+topic: threatlist

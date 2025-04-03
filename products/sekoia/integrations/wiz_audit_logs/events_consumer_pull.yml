@@ -1,0 +1,30 @@
+automation_connector_uuid: 5a0a3fda-e0bd-4c4b-a434-3f57dc76d8d7
+automation_module_uuid: 860eaa8b-ecb1-43dc-8a3d-6ec10144e6e9
+documentation_url: https://docs.sekoia.io/operation_center/integration_catalog/uuid/7f89b1b9-de7f-4e2c-bcef-4d7ddfc91d31
+intake_format_uuid: 7f89b1b9-de7f-4e2c-bcef-4d7ddfc91d31
+mode: pull
+product: sekoia
+role: consumer
+settings:
+- name: module_configuration
+  properties:
+  - description: Client id to interact with Wiz API
+    name: client_id
+    required: true
+  - description: Client secret to interact with Wiz API
+    name: client_secret
+    required: true
+    secret: true
+  - description: Base url of the Wiz tenant (e.g https://api.us17.app.wiz.io)
+    name: tenant_url
+    required: true
+  type: object
+- name: connector_configuration
+  properties:
+  - default: 60
+    description: Batch frequency in seconds
+    name: frequency
+    type: integer
+  type: object
+target_product: wiz_audit_logs
+topic: events

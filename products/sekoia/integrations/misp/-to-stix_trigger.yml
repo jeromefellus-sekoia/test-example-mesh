@@ -1,0 +1,6 @@
+automation_action_uuid: 710c46f9-9984-437e-a6a0-cd28db7978d0
+automation_module_uuid: df3a0c67-592b-45b2-8465-48473929c7f9
+product: sekoia
+role: trigger
+target_product: misp
+topic: -to-stix

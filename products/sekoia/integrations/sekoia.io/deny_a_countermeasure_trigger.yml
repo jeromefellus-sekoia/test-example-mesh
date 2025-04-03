@@ -1,0 +1,6 @@
+automation_action_uuid: 73948f6d-263f-43f5-b9c9-cd418c035744
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: deny_a_countermeasure

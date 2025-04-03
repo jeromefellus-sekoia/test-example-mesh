@@ -1,0 +1,6 @@
+automation_action_uuid: 6fa3d496-c4e5-4833-9aa6-3ba0b18eb23a
+automation_module_uuid: 3d20c308-bc7f-492f-99b0-211614a58116
+product: sekoia
+role: trigger
+target_product: onyphe
+topic: reverse

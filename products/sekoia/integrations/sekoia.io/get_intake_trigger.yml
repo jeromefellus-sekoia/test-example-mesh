@@ -1,0 +1,6 @@
+automation_action_uuid: 6b7a7ebc-d5a0-4886-ba09-d2aa5cd7608d
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: get_intake

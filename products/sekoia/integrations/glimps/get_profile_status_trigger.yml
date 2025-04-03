@@ -1,0 +1,6 @@
+automation_action_uuid: 59f36722-583b-5e49-8e1b-d6756f0c2fe5
+automation_module_uuid: 3ba4b84b-c323-48ef-93d2-6f3544c783d6
+product: sekoia
+role: trigger
+target_product: glimps
+topic: get_profile_status

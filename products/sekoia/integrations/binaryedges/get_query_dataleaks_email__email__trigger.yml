@@ -1,0 +1,6 @@
+automation_action_uuid: ab4d39fa-5b4c-486a-8453-403fedf2ea23
+automation_module_uuid: d9ba02ab-cb1e-4c8d-bf60-feebfc3700d6
+product: sekoia
+role: trigger
+target_product: binaryedges
+topic: get_query_dataleaks_email__email_

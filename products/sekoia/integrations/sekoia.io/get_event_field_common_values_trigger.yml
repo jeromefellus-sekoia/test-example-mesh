@@ -1,0 +1,6 @@
+automation_action_uuid: e26662f6-c40d-45ae-bd3f-4f1a13684ffb
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: get_event_field_common_values

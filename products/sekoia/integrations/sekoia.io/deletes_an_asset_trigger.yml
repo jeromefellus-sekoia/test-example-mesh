@@ -1,0 +1,6 @@
+automation_action_uuid: 2f29eed3-be01-4222-871f-cdf74cb199b5
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: deletes_an_asset

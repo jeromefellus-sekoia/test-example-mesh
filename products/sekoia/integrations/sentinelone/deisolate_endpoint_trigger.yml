@@ -1,0 +1,6 @@
+automation_action_uuid: 306675e9-68a6-4fb2-bfbf-c5a624f44586
+automation_module_uuid: ff675e74-e5c1-47c8-a571-d207fc297464
+product: sekoia
+role: trigger
+target_product: sentinelone
+topic: deisolate_endpoint

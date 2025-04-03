@@ -1,0 +1,6 @@
+automation_action_uuid: 366a9bed-e124-4ad2-9498-acc54a285eba
+automation_module_uuid: d6c96586-707c-451f-b9f6-d31b3291f87d
+product: sekoia
+role: trigger
+target_product: thehivev5
+topic: create_alert

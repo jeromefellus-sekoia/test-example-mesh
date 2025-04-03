@@ -1,0 +1,6 @@
+automation_action_uuid: 9d990989-2faf-4e25-9607-baf7a4b2cc2c
+automation_module_uuid: 735b9f36-50eb-4a36-8d08-0996966ee9aa
+product: sekoia
+role: trigger
+target_product: public_suffix
+topic: get_private_domains

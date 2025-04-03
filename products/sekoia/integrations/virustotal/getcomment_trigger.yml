@@ -1,0 +1,6 @@
+automation_action_uuid: 95111167-996a-428d-a6c7-081461d8b5c4
+automation_module_uuid: d023af1d-25d8-465b-b85f-2ed48214d6a5
+product: sekoia
+role: trigger
+target_product: virustotal
+topic: getcomment

@@ -1,0 +1,6 @@
+automation_action_uuid: df34b4c8-f570-5c70-a986-e1c649aedf42
+automation_module_uuid: 3abf7928-65ef-4a5f-ba3e-5fbe56123d0c
+product: sekoia
+role: trigger
+target_product: azure_ad
+topic: disable_user

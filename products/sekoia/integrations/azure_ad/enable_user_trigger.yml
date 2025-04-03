@@ -1,0 +1,6 @@
+automation_action_uuid: b0722afd-470c-5963-a111-b30804965b37
+automation_module_uuid: 3abf7928-65ef-4a5f-ba3e-5fbe56123d0c
+product: sekoia
+role: trigger
+target_product: azure_ad
+topic: enable_user

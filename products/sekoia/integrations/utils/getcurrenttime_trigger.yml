@@ -1,0 +1,6 @@
+automation_action_uuid: ed382185-77bc-5092-8b54-7ffa94a0587e
+automation_module_uuid: 07cce76b-a319-40ee-a0cf-1ba433431e21
+product: sekoia
+role: trigger
+target_product: utils
+topic: getcurrenttime

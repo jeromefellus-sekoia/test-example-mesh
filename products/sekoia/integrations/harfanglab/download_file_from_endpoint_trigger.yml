@@ -1,0 +1,6 @@
+automation_action_uuid: 10906548-7003-4316-914a-1203a690730d
+automation_module_uuid: 8380240b-61a4-48b7-93e4-044a7ee2309b
+product: sekoia
+role: trigger
+target_product: harfanglab
+topic: download_file_from_endpoint

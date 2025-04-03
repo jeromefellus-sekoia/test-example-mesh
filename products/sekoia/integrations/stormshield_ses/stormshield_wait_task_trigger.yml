@@ -1,0 +1,6 @@
+automation_action_uuid: 09d13b35-9f4e-4065-b98c-bf265dcee27b
+automation_module_uuid: 758103e9-eb62-4b0d-8c71-0ff9c60ca677
+product: sekoia
+role: trigger
+target_product: stormshield_ses
+topic: stormshield_wait_task

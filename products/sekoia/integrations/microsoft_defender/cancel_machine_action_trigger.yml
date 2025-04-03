@@ -1,0 +1,6 @@
+automation_action_uuid: d9c01e21-4215-4ac3-84ae-262c4bf9c2cd
+automation_module_uuid: ce491d8d-87a8-45af-a7c5-ede98c4a4ba3
+product: sekoia
+role: trigger
+target_product: microsoft_defender
+topic: cancel_machine_action

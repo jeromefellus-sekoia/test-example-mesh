@@ -1,0 +1,6 @@
+automation_action_uuid: 46d958ca-5965-4289-abb3-45e65865a1b9
+automation_module_uuid: 48a7eb68-f319-4498-b3ed-461d690e6d05
+product: sekoia
+role: trigger
+target_product: censys
+topic: -search

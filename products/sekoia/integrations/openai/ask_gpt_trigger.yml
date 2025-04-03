@@ -1,0 +1,6 @@
+automation_action_uuid: fe93b2b9-0a0b-5700-bc20-61546d4002e1
+automation_module_uuid: 05fd97a1-43f7-4f47-ae02-63e1d1219040
+product: sekoia
+role: trigger
+target_product: openai
+topic: ask_gpt

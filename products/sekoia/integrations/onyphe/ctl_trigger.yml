@@ -1,0 +1,6 @@
+automation_action_uuid: 5821487e-64a3-46b5-ac86-150d0e10ba82
+automation_module_uuid: 3d20c308-bc7f-492f-99b0-211614a58116
+product: sekoia
+role: trigger
+target_product: onyphe
+topic: ctl

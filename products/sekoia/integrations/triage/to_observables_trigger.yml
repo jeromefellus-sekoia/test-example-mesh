@@ -1,0 +1,6 @@
+automation_action_uuid: 2ab0c09a-5f11-4730-8ee1-183a480ff323
+automation_module_uuid: 919705ab-7a64-493e-a92b-4049fafea325
+product: sekoia
+role: trigger
+target_product: triage
+topic: to_observables

@@ -1,0 +1,6 @@
+automation_action_uuid: c8ebac98-7b2b-4885-b873-451615bee8cf
+automation_module_uuid: ab1540c3-1b60-4bad-9f5b-13d86a554826
+product: sekoia
+role: trigger
+target_product: riskiq
+topic: whois_nameserver

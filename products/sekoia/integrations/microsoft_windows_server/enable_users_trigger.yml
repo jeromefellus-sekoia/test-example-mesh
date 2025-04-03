@@ -1,0 +1,6 @@
+automation_action_uuid: e72cadea-d1e2-4b05-ab4c-333cba2fb724
+automation_module_uuid: 33ea4995-5454-4091-a19f-497cb213346a
+product: sekoia
+role: trigger
+target_product: microsoft_windows_server
+topic: enable_users

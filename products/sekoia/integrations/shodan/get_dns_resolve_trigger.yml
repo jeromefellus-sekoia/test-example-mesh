@@ -1,0 +1,6 @@
+automation_action_uuid: b1b98911-071b-4a4d-b26e-2ae5aa7cef62
+automation_module_uuid: 25c9c44e-b3dc-4485-a2cb-4e9a116bc8fd
+product: sekoia
+role: trigger
+target_product: shodan
+topic: get_dns_resolve

@@ -1,0 +1,6 @@
+automation_action_uuid: bc98176f-10d5-46e8-9a43-8694e8ea4e68
+automation_module_uuid: 0de5216e-19b0-4ad3-9b91-a547cfaf52ca
+product: sekoia
+role: trigger
+target_product: sophos
+topic: edr_run_scan

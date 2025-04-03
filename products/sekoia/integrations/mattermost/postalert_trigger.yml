@@ -1,0 +1,6 @@
+automation_action_uuid: ef3794ca-b5fa-4cee-af3f-fd5ffac01c88
+automation_module_uuid: 89c860f0-3e73-4946-a5c9-431deb33b0e8
+product: sekoia
+role: trigger
+target_product: mattermost
+topic: postalert

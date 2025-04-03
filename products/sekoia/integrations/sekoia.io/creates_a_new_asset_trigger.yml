@@ -1,0 +1,6 @@
+automation_action_uuid: f11f93f8-df5e-4f03-a049-45c3ad9c15c1
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: creates_a_new_asset

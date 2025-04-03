@@ -1,0 +1,6 @@
+automation_action_uuid: a5cf38d6-9f36-4027-98e9-5fa1d2b2b9af
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: delete_case

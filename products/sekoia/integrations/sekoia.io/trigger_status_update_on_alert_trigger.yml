@@ -1,0 +1,6 @@
+automation_action_uuid: 0d7c41fe-7991-42f7-9a04-702754b9700a
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: trigger_status_update_on_alert

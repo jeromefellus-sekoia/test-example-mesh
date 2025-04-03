@@ -1,0 +1,6 @@
+automation_action_uuid: f0512f6d-6e22-459b-8030-734e1d408491
+automation_module_uuid: ab1540c3-1b60-4bad-9f5b-13d86a554826
+product: sekoia
+role: trigger
+target_product: riskiq
+topic: pdns-hex

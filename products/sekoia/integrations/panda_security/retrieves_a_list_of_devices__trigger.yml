@@ -1,0 +1,6 @@
+automation_action_uuid: 71989f7f-f287-4cc4-8e34-237816594866
+automation_module_uuid: e2215979-3462-4fb6-8635-57700aada01c
+product: sekoia
+role: trigger
+target_product: panda_security
+topic: retrieves_a_list_of_devices_

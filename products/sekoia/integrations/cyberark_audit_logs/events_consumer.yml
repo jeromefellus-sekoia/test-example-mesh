@@ -1,0 +1,6 @@
+documentation_url: https://docs.sekoia.io/operation_center/integration_catalog/uuid/e129243d-0eeb-4b4c-a0f6-f15051b04a7e
+intake_format_uuid: e129243d-0eeb-4b4c-a0f6-f15051b04a7e
+product: sekoia
+role: consumer
+target_product: cyberark_audit_logs
+topic: events

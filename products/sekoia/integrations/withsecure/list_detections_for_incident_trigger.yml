@@ -1,0 +1,6 @@
+automation_action_uuid: edd9a642-0472-4be5-8a9b-f3029dd707f6
+automation_module_uuid: 8aa9f86c-f360-4ae7-84f5-b61c6917cf01
+product: sekoia
+role: trigger
+target_product: withsecure
+topic: list_detections_for_incident

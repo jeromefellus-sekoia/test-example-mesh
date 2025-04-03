@@ -1,0 +1,6 @@
+automation_action_uuid: d8e3c0d5-f0d1-46bb-9bbe-068485e38050
+automation_module_uuid: ab1540c3-1b60-4bad-9f5b-13d86a554826
+product: sekoia
+role: trigger
+target_product: riskiq
+topic: ssl_cert_host

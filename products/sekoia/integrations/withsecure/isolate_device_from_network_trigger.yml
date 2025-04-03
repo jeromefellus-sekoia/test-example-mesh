@@ -1,0 +1,6 @@
+automation_action_uuid: 2c15e5f5-35a1-42aa-9ea1-445a75c7d0fa
+automation_module_uuid: 8aa9f86c-f360-4ae7-84f5-b61c6917cf01
+product: sekoia
+role: trigger
+target_product: withsecure
+topic: isolate_device_from_network

@@ -1,0 +1,6 @@
+automation_action_uuid: aba2a15c-c0c6-43f0-b617-69f1571e719d
+automation_module_uuid: 8380240b-61a4-48b7-93e4-044a7ee2309b
+product: sekoia
+role: trigger
+target_product: harfanglab
+topic: endpoint_group_deisolation

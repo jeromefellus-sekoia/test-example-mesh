@@ -1,0 +1,6 @@
+automation_action_uuid: f968397c-47f9-465c-b6bd-a983debbcfc4
+automation_module_uuid: e2215979-3462-4fb6-8635-57700aada01c
+product: sekoia
+role: trigger
+target_product: panda_security
+topic: retrieves_security_overview_information_

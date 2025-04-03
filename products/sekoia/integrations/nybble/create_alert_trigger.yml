@@ -1,0 +1,6 @@
+automation_action_uuid: 06cf0602-e56b-572b-94e0-fdaf709db1b0
+automation_module_uuid: 0664bc2d-8f09-410f-ab8f-e0e07911a6f4
+product: sekoia
+role: trigger
+target_product: nybble
+topic: create_alert

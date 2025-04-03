@@ -1,0 +1,6 @@
+automation_action_uuid: 280ce8cc-9228-4139-a3bf-d38e0e2209d0
+automation_module_uuid: 3d20c308-bc7f-492f-99b0-211614a58116
+product: sekoia
+role: trigger
+target_product: onyphe
+topic: datascan

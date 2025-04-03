@@ -1,0 +1,6 @@
+automation_action_uuid: 1205442a-690e-4520-bc69-cfa153cc2095
+automation_module_uuid: 07cce76b-a319-40ee-a0cf-1ba433431e21
+product: sekoia
+role: trigger
+target_product: utils
+topic: fileutils_readxmlfile

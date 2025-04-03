@@ -1,0 +1,6 @@
+automation_action_uuid: 34e0bd73-a7d2-426a-b9fd-21b1124bb395
+automation_module_uuid: 97864342-32c5-4076-b590-ba0179db9233
+product: sekoia
+role: trigger
+target_product: pagerduty
+topic: triggeralert

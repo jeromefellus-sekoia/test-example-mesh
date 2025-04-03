@@ -1,0 +1,6 @@
+documentation_url: https://docs.sekoia.io/operation_center/integration_catalog/uuid/ec7fd978-5526-42c8-acd5-e1b4aa752a73
+intake_format_uuid: ec7fd978-5526-42c8-acd5-e1b4aa752a73
+product: sekoia
+role: consumer
+target_product: seckiot_citadelle
+topic: events

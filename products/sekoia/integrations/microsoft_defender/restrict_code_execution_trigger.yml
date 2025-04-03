@@ -1,0 +1,6 @@
+automation_action_uuid: 4b510a61-a7e9-5e49-a5c1-a44e27603d98
+automation_module_uuid: ce491d8d-87a8-45af-a7c5-ede98c4a4ba3
+product: sekoia
+role: trigger
+target_product: microsoft_defender
+topic: restrict_code_execution

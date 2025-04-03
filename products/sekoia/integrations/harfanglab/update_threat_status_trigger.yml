@@ -1,0 +1,6 @@
+automation_action_uuid: b87b9d40-2667-4792-ac93-2f35623cf3ab
+automation_module_uuid: 8380240b-61a4-48b7-93e4-044a7ee2309b
+product: sekoia
+role: trigger
+target_product: harfanglab
+topic: update_threat_status

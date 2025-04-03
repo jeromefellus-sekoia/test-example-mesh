@@ -1,0 +1,6 @@
+automation_action_uuid: 41cd724b-bfcc-4fb7-bee7-ef5d02176e4c
+automation_module_uuid: 07cce76b-a319-40ee-a0cf-1ba433431e21
+product: sekoia
+role: trigger
+target_product: utils
+topic: wait

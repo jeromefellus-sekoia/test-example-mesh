@@ -1,0 +1,6 @@
+automation_action_uuid: e9945027-ef91-4002-b509-2262bb812b41
+automation_module_uuid: 3d20c308-bc7f-492f-99b0-211614a58116
+product: sekoia
+role: trigger
+target_product: onyphe
+topic: forward

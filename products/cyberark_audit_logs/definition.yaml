@@ -1,0 +1,7 @@
+description: The Audit service provides audit trails for activities, events, and sessions
+  that are performed by any integrated service on the Shared Services platform.
+name: cyberark_audit_logs
+produces:
+  events:
+  - {}
+vendor: CyberArk

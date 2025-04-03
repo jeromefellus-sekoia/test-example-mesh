@@ -1,0 +1,6 @@
+automation_action_uuid: faf313f2-8713-4992-8809-85039946ff8a
+automation_module_uuid: 8aa9f86c-f360-4ae7-84f5-b61c6917cf01
+product: sekoia
+role: trigger
+target_product: withsecure
+topic: enumerate_processes

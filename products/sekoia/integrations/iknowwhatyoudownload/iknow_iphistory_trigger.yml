@@ -1,0 +1,6 @@
+automation_action_uuid: 18329483-e6e0-4e7d-bcad-bf20d5aa8271
+automation_module_uuid: 3c334ccd-91be-49d5-9267-915db6ab588e
+product: sekoia
+role: trigger
+target_product: iknowwhatyoudownload
+topic: iknow_iphistory

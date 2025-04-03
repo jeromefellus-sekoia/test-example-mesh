@@ -1,0 +1,6 @@
+automation_action_uuid: ec11369d-142e-4cdf-a5d8-0cd6b9f3198b
+automation_module_uuid: ff675e74-e5c1-47c8-a571-d207fc297464
+product: sekoia
+role: trigger
+target_product: sentinelone
+topic: create_threat_note

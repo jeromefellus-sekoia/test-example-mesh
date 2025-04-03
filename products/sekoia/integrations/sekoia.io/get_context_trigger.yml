@@ -1,0 +1,6 @@
+automation_action_uuid: 5d60776b-eb19-4421-aca3-df1cd109d9c0
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: get_context

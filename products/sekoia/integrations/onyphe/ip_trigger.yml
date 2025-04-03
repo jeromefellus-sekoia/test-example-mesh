@@ -1,0 +1,6 @@
+automation_action_uuid: 556d3b7f-0a8a-4dce-b44a-e996f73108c4
+automation_module_uuid: 3d20c308-bc7f-492f-99b0-211614a58116
+product: sekoia
+role: trigger
+target_product: onyphe
+topic: ip

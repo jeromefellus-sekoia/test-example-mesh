@@ -1,0 +1,6 @@
+automation_action_uuid: 78ed463e-cda5-410b-8771-8db68bec740f
+automation_module_uuid: d9ba02ab-cb1e-4c8d-bf60-feebfc3700d6
+product: sekoia
+role: trigger
+target_product: binaryedges
+topic: get_query_sensors_ip__target_

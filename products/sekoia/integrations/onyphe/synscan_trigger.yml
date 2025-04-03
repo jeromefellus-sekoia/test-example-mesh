@@ -1,0 +1,6 @@
+automation_action_uuid: 7fab8ebb-97a8-4111-81e6-9355529198a0
+automation_module_uuid: 3d20c308-bc7f-492f-99b0-211614a58116
+product: sekoia
+role: trigger
+target_product: onyphe
+topic: synscan

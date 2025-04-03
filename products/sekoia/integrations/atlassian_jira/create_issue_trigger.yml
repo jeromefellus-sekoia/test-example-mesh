@@ -1,0 +1,6 @@
+automation_action_uuid: af4bbb52-439b-4e3c-9b02-7b8876b4a6a4
+automation_module_uuid: d1445e5e-8e3b-417f-ae19-bca67a10affd
+product: sekoia
+role: trigger
+target_product: atlassian_jira
+topic: create_issue

@@ -1,0 +1,6 @@
+automation_action_uuid: 3092c266-e34a-403c-a90f-71447bfcd680
+automation_module_uuid: e2215979-3462-4fb6-8635-57700aada01c
+product: sekoia
+role: trigger
+target_product: panda_security
+topic: isolates_devices_

@@ -1,0 +1,6 @@
+automation_action_uuid: ffc79e47-1f87-4552-8b9c-21355d0f2fd5
+automation_module_uuid: 28d53bf5-738a-42a4-8ce4-67e00195590e
+product: sekoia
+role: trigger
+target_product: azure_monitor
+topic: query_logs

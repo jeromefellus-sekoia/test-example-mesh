@@ -1,0 +1,6 @@
+automation_action_uuid: d9ec2c57-1421-89a8-1cae-8b04eb6a84eb
+automation_module_uuid: a55461dd-cd8b-9e05-f87a-607b574804fd
+product: sekoia
+role: trigger
+target_product: whois
+topic: ''

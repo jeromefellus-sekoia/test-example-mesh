@@ -1,0 +1,6 @@
+automation_action_uuid: 3140f928-a766-45c3-80b5-ab92444629e8
+automation_module_uuid: 4fdbae70-e9cd-492e-9a39-24ce99325e3f
+product: sekoia
+role: trigger
+target_product: crowdstrike_falcon
+topic: isolate_hosts

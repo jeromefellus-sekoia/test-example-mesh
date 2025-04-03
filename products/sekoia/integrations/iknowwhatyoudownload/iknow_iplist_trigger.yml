@@ -1,0 +1,6 @@
+automation_action_uuid: a06ec7e6-b678-4b90-ab72-d6b7b8e60c72
+automation_module_uuid: 3c334ccd-91be-49d5-9267-915db6ab588e
+product: sekoia
+role: trigger
+target_product: iknowwhatyoudownload
+topic: iknow_iplist

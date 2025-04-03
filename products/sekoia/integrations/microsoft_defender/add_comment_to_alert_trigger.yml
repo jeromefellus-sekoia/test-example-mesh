@@ -1,0 +1,6 @@
+automation_action_uuid: fa181daa-4278-4c0a-956f-6f90c8f69db3
+automation_module_uuid: ce491d8d-87a8-45af-a7c5-ede98c4a4ba3
+product: sekoia
+role: trigger
+target_product: microsoft_defender
+topic: add_comment_to_alert

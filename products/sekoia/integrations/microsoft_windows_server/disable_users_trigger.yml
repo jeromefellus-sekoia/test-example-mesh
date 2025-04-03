@@ -1,0 +1,6 @@
+automation_action_uuid: ebbc2c31-81de-4fea-bba2-bce8d83a2058
+automation_module_uuid: 33ea4995-5454-4091-a19f-497cb213346a
+product: sekoia
+role: trigger
+target_product: microsoft_windows_server
+topic: disable_users

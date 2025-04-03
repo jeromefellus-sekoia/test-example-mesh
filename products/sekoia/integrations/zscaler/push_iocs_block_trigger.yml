@@ -1,0 +1,6 @@
+automation_action_uuid: 103d8377-7a61-4558-8eae-1041b130c871
+automation_module_uuid: 0c97d665-e316-48ff-bcba-bbfbd4eaccc7
+product: sekoia
+role: trigger
+target_product: zscaler
+topic: push_iocs_block

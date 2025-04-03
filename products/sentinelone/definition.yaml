@@ -1,0 +1,34 @@
+description: SentinelOne is a cybersecurity company that provides autonomous endpoint
+  protection through AI-powered threat detection and response. Its platform offers
+  real-time prevention, detection, and remediation of cyber threats across networks.
+executes:
+  create_iocs:
+  - {}
+  create_threat_note:
+  - {}
+  deisolate_endpoint:
+  - {}
+  get_malwares:
+  - {}
+  init_scan:
+  - {}
+  isolate_endpoint:
+  - {}
+  query_deep_visibility:
+  - {}
+  remote_script_execute:
+  - {}
+  update_threat_incident:
+  - {}
+name: sentinelone
+produces:
+  events:
+  - mode: pull
+settings:
+- description: The domain-name to the SentinelOne instance
+  name: hostname
+  required: true
+- description: The API token to authenticate to SentinelOne
+  name: api_token
+  required: true
+  secret: true

@@ -1,0 +1,7 @@
+description: Control and audit logs track configuration changes and administrative
+  actions
+name: wiz_audit_logs
+produces:
+  events:
+  - mode: pull
+vendor: Wiz

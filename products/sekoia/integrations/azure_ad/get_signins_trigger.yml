@@ -1,0 +1,6 @@
+automation_action_uuid: 02d6dbc8-6622-5718-9925-ae032dfa5208
+automation_module_uuid: 3abf7928-65ef-4a5f-ba3e-5fbe56123d0c
+product: sekoia
+role: trigger
+target_product: azure_ad
+topic: get_signins

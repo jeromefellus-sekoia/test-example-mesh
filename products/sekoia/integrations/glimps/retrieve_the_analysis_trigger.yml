@@ -1,0 +1,6 @@
+automation_action_uuid: 31d90d77-a480-408b-9ce3-d565ff161231
+automation_module_uuid: 3ba4b84b-c323-48ef-93d2-6f3544c783d6
+product: sekoia
+role: trigger
+target_product: glimps
+topic: retrieve_the_analysis

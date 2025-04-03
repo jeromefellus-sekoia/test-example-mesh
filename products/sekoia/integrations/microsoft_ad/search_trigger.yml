@@ -1,0 +1,6 @@
+automation_action_uuid: 7f9d4c8f-0d03-44ef-ba60-6adf99562680
+automation_module_uuid: b2d96259-af89-4f7a-ae6e-a0af2d2400f3
+product: sekoia
+role: trigger
+target_product: microsoft_ad
+topic: search

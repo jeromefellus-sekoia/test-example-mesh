@@ -1,0 +1,6 @@
+automation_action_uuid: 06af8159-4abe-4861-94d1-5bd57b250947
+automation_module_uuid: d1445e5e-8e3b-417f-ae19-bca67a10affd
+product: sekoia
+role: trigger
+target_product: atlassian_jira
+topic: comment_issue

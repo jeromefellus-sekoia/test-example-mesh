@@ -1,0 +1,6 @@
+automation_action_uuid: 1cf2afa7-87c6-4724-9f2b-c95c8b2ae6cf
+automation_module_uuid: d9ba02ab-cb1e-4c8d-bf60-feebfc3700d6
+product: sekoia
+role: trigger
+target_product: binaryedges
+topic: get_query_torrent_search_stats

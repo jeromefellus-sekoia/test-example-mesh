@@ -1,0 +1,6 @@
+automation_action_uuid: e3641fd8-54f9-5282-95fc-6429c9ce697b
+automation_module_uuid: 26075aca-cd73-49d2-98f6-d03ac58e773d
+product: sekoia
+role: trigger
+target_product: microsoft_outlook
+topic: delete_message

@@ -1,0 +1,6 @@
+automation_action_uuid: 52f83382-65bd-4b6e-884c-47a27c076e77
+automation_module_uuid: d9ba02ab-cb1e-4c8d-bf60-feebfc3700d6
+product: sekoia
+role: trigger
+target_product: binaryedges
+topic: get_query_search_stats

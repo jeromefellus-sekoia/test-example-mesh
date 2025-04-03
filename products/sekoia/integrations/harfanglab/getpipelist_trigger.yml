@@ -1,0 +1,6 @@
+automation_action_uuid: a1151541-ab34-4d7c-80a1-b2e05f8e91ec
+automation_module_uuid: 8380240b-61a4-48b7-93e4-044a7ee2309b
+product: sekoia
+role: trigger
+target_product: harfanglab
+topic: getpipelist

@@ -1,0 +1,6 @@
+automation_action_uuid: 377a9c54-6bb6-40e3-8753-80cbc5b59c60
+automation_module_uuid: ca9a9497-bcd2-4d0c-b0c1-72699231feb2
+product: sekoia
+role: trigger
+target_product: fortigate
+topic: add_ip_address

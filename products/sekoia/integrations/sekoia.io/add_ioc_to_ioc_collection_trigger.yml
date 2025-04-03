@@ -1,0 +1,6 @@
+automation_action_uuid: 0acabc04-43b4-4564-b9b2-08b80e0e1ecf
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: add_ioc_to_ioc_collection

@@ -1,0 +1,6 @@
+automation_action_uuid: 640586e4-9111-4ca8-b824-ca65b1d3f2ef
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: inthreat_post_bundle

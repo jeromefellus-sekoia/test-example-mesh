@@ -1,0 +1,17 @@
+description: Azure Monitor is a comprehensive solution for collecting, analyzing,
+  and acting on telemetry from cloud and on-premises environments to maximize the
+  performance and availability of applications.
+name: azure_monitor
+settings:
+- description: Tenant ID
+  name: tenant_id
+  required: true
+- description: Client ID. An application needs to be created in the Azure Portal and
+    assigned relevant permissions. Its Client ID should then be used in this configuration.
+  name: client_id
+  required: true
+- description: Client Secret associated with the registered application. Admin Consent
+    has to be granted to the application for it to work.
+  name: client_secret
+  required: true
+  secret: true

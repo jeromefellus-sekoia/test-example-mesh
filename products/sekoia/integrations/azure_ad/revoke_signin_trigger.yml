@@ -1,0 +1,6 @@
+automation_action_uuid: 4be1e1e1-cb41-4b93-ac3d-cdc6a5c38c71
+automation_module_uuid: 3abf7928-65ef-4a5f-ba3e-5fbe56123d0c
+product: sekoia
+role: trigger
+target_product: azure_ad
+topic: revoke_signin

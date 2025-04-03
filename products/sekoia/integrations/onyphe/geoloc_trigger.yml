@@ -1,0 +1,6 @@
+automation_action_uuid: e11aeeb9-f1c8-42b7-bd86-b0f3bc34e910
+automation_module_uuid: 3d20c308-bc7f-492f-99b0-211614a58116
+product: sekoia
+role: trigger
+target_product: onyphe
+topic: geoloc

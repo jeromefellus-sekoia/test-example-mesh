@@ -1,0 +1,6 @@
+automation_action_uuid: 68a93925-d0c3-40e5-98a3-836d4b2e8f5e
+automation_module_uuid: d023af1d-25d8-465b-b85f-2ed48214d6a5
+product: sekoia
+role: trigger
+target_product: virustotal
+topic: scandomain

@@ -1,0 +1,6 @@
+automation_action_uuid: 6d948fb8-f738-43d8-b3bb-b3aa847ba4f7
+automation_module_uuid: 758103e9-eb62-4b0d-8c71-0ff9c60ca677
+product: sekoia
+role: trigger
+target_product: stormshield_ses
+topic: stormshield_terminate_process

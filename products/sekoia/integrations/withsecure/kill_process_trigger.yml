@@ -1,0 +1,6 @@
+automation_action_uuid: 0df444da-369a-42b5-a371-a1dce78e967b
+automation_module_uuid: 8aa9f86c-f360-4ae7-84f5-b61c6917cf01
+product: sekoia
+role: trigger
+target_product: withsecure
+topic: kill_process

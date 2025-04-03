@@ -1,0 +1,7 @@
+dst_instance: sekoia
+mode: push
+settings:
+  intake_uuid: a1bc7090-5f0d-4d6c-b8a0-7ccf80d7c446
+src_instance: harfanglab
+status: up
+topic: events

@@ -1,0 +1,6 @@
+automation_action_uuid: 3b1314cd-3bdd-4525-ae56-0ea52f4ffb6a
+automation_module_uuid: ab1540c3-1b60-4bad-9f5b-13d86a554826
+product: sekoia
+role: trigger
+target_product: riskiq
+topic: whois_domain

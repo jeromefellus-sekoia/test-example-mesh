@@ -1,0 +1,6 @@
+automation_action_uuid: e9453097-ea17-4e90-8d8d-60506dddfc58
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: activate_a_countermeasure

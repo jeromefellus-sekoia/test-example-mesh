@@ -1,0 +1,6 @@
+automation_action_uuid: 13124b8b-9b20-47f0-ad41-118f53ccb833
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: get_community

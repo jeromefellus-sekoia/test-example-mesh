@@ -1,0 +1,6 @@
+automation_action_uuid: 26de2915-4bb4-4c9e-be5d-464c292e0663
+automation_module_uuid: 3d20c308-bc7f-492f-99b0-211614a58116
+product: sekoia
+role: trigger
+target_product: onyphe
+topic: inetnum

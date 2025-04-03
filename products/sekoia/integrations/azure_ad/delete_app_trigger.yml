@@ -1,0 +1,6 @@
+automation_action_uuid: ec4039ec-7991-48ac-9d8f-503ef17013a2
+automation_module_uuid: 3abf7928-65ef-4a5f-ba3e-5fbe56123d0c
+product: sekoia
+role: trigger
+target_product: azure_ad
+topic: delete_app

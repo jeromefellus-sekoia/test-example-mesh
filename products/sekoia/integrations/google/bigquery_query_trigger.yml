@@ -1,0 +1,6 @@
+automation_action_uuid: 8fcb7d3f-2cb7-474f-8727-dc5ba13eebea
+automation_module_uuid: 4f682a9e-9a25-43a5-8a48-cd9bd7fade7e
+product: sekoia
+role: trigger
+target_product: google
+topic: bigquery_query

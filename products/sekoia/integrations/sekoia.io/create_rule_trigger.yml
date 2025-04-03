@@ -1,0 +1,6 @@
+automation_action_uuid: 095be615-a8ad-4c33-8e9c-c7612fbf6c9f
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: create_rule

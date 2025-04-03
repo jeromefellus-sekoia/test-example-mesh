@@ -1,0 +1,6 @@
+automation_action_uuid: ab660ed7-9160-4f91-bb1c-3d49dc8c0972
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: inthreat_upload_observables

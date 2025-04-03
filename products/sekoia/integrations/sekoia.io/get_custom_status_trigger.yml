@@ -1,0 +1,6 @@
+automation_action_uuid: 4ffb485e-cf15-46e9-a95d-66f941308002
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: get_custom_status

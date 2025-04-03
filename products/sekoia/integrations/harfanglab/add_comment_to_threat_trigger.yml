@@ -1,0 +1,6 @@
+automation_action_uuid: 99e720a6-9856-4d71-b190-357072100f88
+automation_module_uuid: 8380240b-61a4-48b7-93e4-044a7ee2309b
+product: sekoia
+role: trigger
+target_product: harfanglab
+topic: add_comment_to_threat

@@ -1,0 +1,6 @@
+automation_action_uuid: 288a52f2-6994-419f-884c-d15f81a31cfc
+automation_module_uuid: ca9a9497-bcd2-4d0c-b0c1-72699231feb2
+product: sekoia
+role: trigger
+target_product: fortigate
+topic: add_fqdn

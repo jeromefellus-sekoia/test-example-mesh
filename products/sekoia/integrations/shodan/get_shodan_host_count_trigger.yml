@@ -1,0 +1,6 @@
+automation_action_uuid: dcb631c2-7423-46fa-b8e9-f51b79c4ce6e
+automation_module_uuid: 25c9c44e-b3dc-4485-a2cb-4e9a116bc8fd
+product: sekoia
+role: trigger
+target_product: shodan
+topic: get_shodan_host_count

@@ -1,0 +1,6 @@
+automation_action_uuid: 50fc3f07-ab5b-4dd6-a7ab-de86b31ebd44
+automation_module_uuid: 8380240b-61a4-48b7-93e4-044a7ee2309b
+product: sekoia
+role: trigger
+target_product: harfanglab
+topic: create_iocs

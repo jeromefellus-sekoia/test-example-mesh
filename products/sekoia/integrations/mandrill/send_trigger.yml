@@ -1,0 +1,6 @@
+automation_action_uuid: cb61842a-e09f-417d-acdf-34c818c61c87
+automation_module_uuid: bc2699a6-93e5-4d74-816d-4186d6eb3ce8
+product: sekoia
+role: trigger
+target_product: mandrill
+topic: send

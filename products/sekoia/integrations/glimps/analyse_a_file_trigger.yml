@@ -1,0 +1,6 @@
+automation_action_uuid: 04c3192f-532c-506d-ae0d-452b64d8718d
+automation_module_uuid: 3ba4b84b-c323-48ef-93d2-6f3544c783d6
+product: sekoia
+role: trigger
+target_product: glimps
+topic: analyse_a_file

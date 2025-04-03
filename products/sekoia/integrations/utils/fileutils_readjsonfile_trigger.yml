@@ -1,0 +1,6 @@
+automation_action_uuid: ecedfa52-7033-4ea8-9c3b-93ad34295f87
+automation_module_uuid: 07cce76b-a319-40ee-a0cf-1ba433431e21
+product: sekoia
+role: trigger
+target_product: utils
+topic: fileutils_readjsonfile

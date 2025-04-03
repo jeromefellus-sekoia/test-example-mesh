@@ -1,0 +1,6 @@
+automation_action_uuid: 97020883-a22b-49cc-97d0-73649bdc870a
+automation_module_uuid: 8aa9f86c-f360-4ae7-84f5-b61c6917cf01
+product: sekoia
+role: trigger
+target_product: withsecure
+topic: comment_incident

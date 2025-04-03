@@ -1,0 +1,6 @@
+automation_action_uuid: 8ef78762-7769-48e1-9345-a98b68afca00
+automation_module_uuid: e2215979-3462-4fb6-8635-57700aada01c
+product: sekoia
+role: trigger
+target_product: panda_security
+topic: retrieves_device_protection_status_

@@ -1,0 +1,6 @@
+automation_action_uuid: 09e9dc3a-aeb2-4dde-ad96-3ee543afdf51
+automation_module_uuid: 5894985f-91eb-46db-9306-cc5ac6463d3d
+product: sekoia
+role: trigger
+target_product: http
+topic: download_file

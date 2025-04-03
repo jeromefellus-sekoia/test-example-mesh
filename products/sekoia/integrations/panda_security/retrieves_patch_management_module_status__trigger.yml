@@ -1,0 +1,6 @@
+automation_action_uuid: 5f72ed0b-bd3d-496c-80d8-3e0504f92446
+automation_module_uuid: e2215979-3462-4fb6-8635-57700aada01c
+product: sekoia
+role: trigger
+target_product: panda_security
+topic: retrieves_patch_management_module_status_

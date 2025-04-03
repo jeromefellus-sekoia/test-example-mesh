@@ -1,0 +1,6 @@
+automation_action_uuid: b18366f8-cab0-4bf6-b9e2-6bf19627a1e1
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: synchronize_asset

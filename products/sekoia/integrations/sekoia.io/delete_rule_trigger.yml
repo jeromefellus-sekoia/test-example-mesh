@@ -1,0 +1,6 @@
+automation_action_uuid: ec84f052-8934-4a0b-a1d7-ae8426357bbd
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: delete_rule

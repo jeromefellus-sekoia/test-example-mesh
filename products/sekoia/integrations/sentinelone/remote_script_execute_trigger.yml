@@ -1,0 +1,6 @@
+automation_action_uuid: a763b09c-ceb7-41f8-aa13-58a8caac8296
+automation_module_uuid: ff675e74-e5c1-47c8-a571-d207fc297464
+product: sekoia
+role: trigger
+target_product: sentinelone
+topic: remote_script_execute

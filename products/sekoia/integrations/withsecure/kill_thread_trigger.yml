@@ -1,0 +1,6 @@
+automation_action_uuid: 4bc76949-62de-460a-b50d-f81d9b42c556
+automation_module_uuid: 8aa9f86c-f360-4ae7-84f5-b61c6917cf01
+product: sekoia
+role: trigger
+target_product: withsecure
+topic: kill_thread

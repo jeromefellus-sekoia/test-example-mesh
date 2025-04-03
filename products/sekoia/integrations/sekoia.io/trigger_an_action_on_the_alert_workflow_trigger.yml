@@ -1,0 +1,6 @@
+automation_action_uuid: c4b84449-a26f-4f18-bde4-33efa921f4d4
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: trigger_an_action_on_the_alert_workflow

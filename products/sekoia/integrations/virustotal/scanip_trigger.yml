@@ -1,0 +1,6 @@
+automation_action_uuid: fee286fa-415b-4f04-bf26-536e40b64859
+automation_module_uuid: d023af1d-25d8-465b-b85f-2ed48214d6a5
+product: sekoia
+role: trigger
+target_product: virustotal
+topic: scanip

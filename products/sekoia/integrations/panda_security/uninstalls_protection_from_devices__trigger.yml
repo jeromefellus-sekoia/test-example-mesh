@@ -1,0 +1,6 @@
+automation_action_uuid: e381b0eb-2b54-4f5a-9295-ce269cd6787a
+automation_module_uuid: e2215979-3462-4fb6-8635-57700aada01c
+product: sekoia
+role: trigger
+target_product: panda_security
+topic: uninstalls_protection_from_devices_

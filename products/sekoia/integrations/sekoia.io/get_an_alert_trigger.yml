@@ -1,0 +1,6 @@
+automation_action_uuid: 8d189665-5401-4098-8d60-944de9a6199a
+automation_module_uuid: 92d8bb47-7c51-445d-81de-ae04edbb6f0a
+product: sekoia
+role: trigger
+target_product: sekoia.io
+topic: get_an_alert
